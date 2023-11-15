@@ -1,1 +1,2 @@
-# C_Example
+## C_Example
+>basitten zora doğru giden C programlama algoritmaları
