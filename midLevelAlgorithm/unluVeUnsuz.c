@@ -3,7 +3,7 @@
 //karakter ünlü mü yoksa ünsüz mü tespit eden C programı
 int main(){
 	
-	setlocale(LC_ALL , "Turkish");
+	setlocale(LC_ALL ,"Turkish");
 	char karakter;
 	printf("karakter girin:"); scanf("%c",&karakter);
 	
