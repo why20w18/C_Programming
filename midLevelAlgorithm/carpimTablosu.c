@@ -1,5 +1,5 @@
 #include <stdio.h>
-//çarpım tablosu oluşturan C programı
+// çarpım tablosu oluşturan C programı
 int main(){
 	int i , j;
 	for(i = 1 ; i <= 10 ; i++){
